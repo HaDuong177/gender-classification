@@ -1,0 +1,20 @@
+# Checkpoints & Model weights
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# Datasets & outputs
+Dataset/
+data/
+*.csv
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+.venv/
+env/
+venv/
